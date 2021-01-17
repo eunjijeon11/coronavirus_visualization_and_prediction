@@ -1,7 +1,7 @@
 # Coronavirus Visualization and Prediction 
 This repository tracks the spread of the novel coronavirus, also known as SARS-CoV-2. It is a contagious respiratory virus that first started in Wuhan in December 2019. On 2/11/2020, the disease is officially named COVID-19 by the World Health Organization.
 
+This folk repo is focused to the COVID-19 confirmed cases in South Korea. It predicts for the next 100days from 2020/4/1. It uses Support Vector Machine to predict confirmed cases.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdshs.texas.gov%2FuploadedImages%2FContent%2FConsumer_and_External_Affairs%2Fcoronavirus%2Fbanner.png&f=1&nofb=1" width="100%">
-
-<center><p> Image source: https://dshs.texas.gov/uploadedImages/Content/Consumer_and_External_Affairs/coronavirus/banner.png </p></center>
+![output-image](output.png)
+output image
